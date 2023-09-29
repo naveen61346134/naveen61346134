@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen61346134&label=Profile%20views&color=0e75b6&style=flat" alt="naveen61346134" /> </p>
 
-- 🔭 I’m currently working on [REPLICATE-API-CALLS](https://github.com/naveen61346134/REPLICATE-API-CALLS)
+- 🔭 I’m currently working on [ImageSynthX](https://github.com/naveen61346134/ImageSynthX)
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **python,linux**
+- 💬 Ask me about **Python, Linux**
 
 - 📫 How to reach me **williamnaveen8@gmail.com**
 
